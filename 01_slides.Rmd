@@ -100,7 +100,7 @@ library(kableExtra)
 
 .pull-left[
 The Berkeley Initiative for Transparency in the Social Sciences works to improve </br>the credibility of science by </br>
-advancing transparency, </br> reproducibility,  rigor, and </br> ethics in research. 
+advancing transparency, </br> reproducibility,  rigor, and </br> ethics in research and policy analysis. 
 
 .font130[**Core ACRe**]
   
@@ -175,7 +175,7 @@ name:motivation
 .font180[
 | Replication in Social Sciences<br>(same method, different sample) 	| Reproduction in Economics<br>(same data and methods) 	|
 |-------------------------------------------------------------------	|------------------------------------------------------	|
-| OSC ([2015](https://docs.google.com/document/d/1mm_4HZnEz_2Bh8XuiS2tpqCH08MFPyqUhi1baKPqR8Y/edit#heading=h.7vqf2cziid7z)): 30%-60%                      	                          | Chang & LiRobustness ([2015](https://www.nowpublishers.com/article/Details/CFR-0053)): 43%                               	|
+| OSC ([2015](https://docs.google.com/document/d/1mm_4HZnEz_2Bh8XuiS2tpqCH08MFPyqUhi1baKPqR8Y/edit#heading=h.7vqf2cziid7z)): 30%-60%                      	                          | Chang & Li ([2015](https://www.nowpublishers.com/article/Details/CFR-0053)): 43%                               	|
 | Camerer et. al. ([2016](https://science.sciencemag.org/content/351/6280/1433)): ~60%                                      	| Gertler et. al. ([2017](https://www.nature.com/articles/d41586-018-02108-9)): 14%                          	|
 | Nosek & Camerer et. al. ([2018](https://www.nature.com/articles/s41562-018-0399-z)): ~60%                              	| Kingi et. al. ([2018](https://hautahi.com/static/docs/Replication_aejae.pdf)): 43%                            	|
 | Klein et. al. ([2018](https://journals.sagepub.com/doi/10.1177/2515245918810225)): 50%                                         	| Wood et. al. ([2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209416#abstract0)): 25%                             	|
